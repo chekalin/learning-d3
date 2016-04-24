@@ -1,0 +1,13 @@
+{
+  "name": "learning-d3",
+  "version": "1.0.0",
+  "description": "Learning D3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
